@@ -1,6 +1,6 @@
 body {
-  background-image: linear-gradient(to bottom right, #FAAA8D,#FF4000,#FAAA8D,#FEEFDD );
-  color:#282D3C;
+  background-image: linear-gradient(to bottom right,#11277D,#0F8493,#91BFBD );
+  color:black;
   font-family: 'Anek Odia', sans-serif;
   font-weight: light;
 }
@@ -39,7 +39,7 @@ label{
   display: inline-block;}
 
 button {
-  background-color: #FF4000;
+  background-color: #0F8493;
   border: none;
   color: white;
   padding: 8px 16px;
@@ -56,7 +56,7 @@ button:hover{
 
 button:active{
   background-color: rgb(254, 239, 221);
-  color: #FF4000
+  color: #0F8493
 }
 
 
@@ -69,6 +69,7 @@ a:hover {
 
 footer {
   background-color:rgb(254, 239, 221);
-  padding: (8px 16px);
   width: 80%;
+  text-align: center;
+  margin: auto;
 }
