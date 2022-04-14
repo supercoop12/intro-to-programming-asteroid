@@ -1,0 +1,74 @@
+body {
+  background-image: linear-gradient(to bottom right, #FAAA8D,#FF4000,#FAAA8D,#FEEFDD );
+  color:#282D3C;
+  font-family: 'Anek Odia', sans-serif;
+  font-weight: light;
+}
+
+h1 {
+    background-color: rgb(254, 239, 221);
+    text-align: center;
+     width: 80%;
+    padding: 2px 0px 5px 10px;
+     margin: auto;
+  }
+
+h2 {
+    
+    background-color: rgb(254, 239, 221);
+    text-align: center;
+    padding: 2px 0px 5px 10px;
+     width: 100%;
+  }
+ section {
+    background-color: rgb(254, 239, 221,0.5);
+   padding: 0px 10px 2px 2px;
+   width: 80%;
+   margin: auto;
+  }
+
+p {
+  padding: 0px 20px 0px 20px;
+}
+
+li{padding: 10px 0px 0px 0px;}
+
+label{
+  padding: 0px 0px 0px 5px;
+  width: 4em;
+  display: inline-block;}
+
+button {
+  background-color: #FF4000;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 50px 10px 10px;
+}
+
+button:hover{
+  opacity:0.8;
+}
+
+
+button:active{
+  background-color: rgb(254, 239, 221);
+  color: #FF4000
+}
+
+
+a:hover {
+  color:#FF4000;
+  
+}
+
+
+
+footer {
+  background-color:rgb(254, 239, 221);
+  padding: (8px 16px);
+  width: 80%;
+}
